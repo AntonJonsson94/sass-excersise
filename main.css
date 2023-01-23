@@ -1,0 +1,27 @@
+section {
+  background-color: #53c6be;
+  height: 30rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+section div {
+  border: 4px solid blue;
+}
+section p {
+  color: black;
+}
+
+button {
+  width: 100px;
+  font-size: xx-large;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+button:Hover {
+  border: 3px solid black;
+  background: green;
+}
+
+/*# sourceMappingURL=main.css.map */
